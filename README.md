@@ -1,6 +1,6 @@
 # 💫 About Me:
  
- Aloha! I'm Ryan and I am an automation engineer from Hawaii. <br /> and
+ Aloha! I'm Ryan and I am an automation engineer from Hawaii. <br /> 
  I'm currently working on automating network tasks and making engineers lives easier. <br>
   
 
